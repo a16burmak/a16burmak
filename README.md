@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3NtY188QaxDdC/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/3NtY188QaxDdC/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
   <a href="your-vk-URL">
@@ -22,6 +22,9 @@
   <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" height="300"/>
 </div>
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+
  ### :woman_technologist: About me :
  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow.
  
@@ -29,6 +32,11 @@
  - 	:skull: Мне нравиться изучать, что-то новое
   - :face_with_spiral_eyes: Я учусь на втором курсе
   
+  
+  
+  <div id="header" align="center">
+  <img src="https://media.giphy.com/media/2uxxXyTRFgIJaOZJTb/giphy.gif" width="500"/>
+</div>
   
   ---
 
@@ -54,3 +62,8 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=a16burmak&theme=blux&border_radius=4.8)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rompersStomper)](https://github.com/rompersStomper/github-readme-stats)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
