@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/3NtY188QaxDdC/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
-  <a href="ttps://vk.com/a16burmak">
+  <a href="https://vk.com/a16burmak">
     <img src="https://img.shields.io/badge/VK-black?logo=VK&logoColor=pink&style=for-the-badge" alt="VK Badge"/>
   </a>
   <a href="@a16burmak">
