@@ -61,7 +61,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=a16burmak&theme=blux&border_radius=4.8)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rompersStomper)](https://github.com/rompersStomper/github-readme-stats)
+
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
