@@ -5,7 +5,7 @@
   <a href="https://vk.com/a16burmak">
     <img src="https://img.shields.io/badge/VK-black?logo=VK&logoColor=pink&style=for-the-badge" alt="VK Badge"/>
   </a>
-  <a href="@a16burmak">
+  <a href="https://t.me/a16burmak">
     <img src="https://img.shields.io/badge/ Telegram-yellow?style=for-the badge&logo=telegram&logoColor=black" alt="Telegram Badge"/>
   </a>
 </div>
